@@ -1,5 +1,7 @@
-# This is a test entry
+# Introduction.
 
-The idea of keeping it simple and using MarkDown is appealing (even if John Gruber created it).
+The important thing here is to own your own words, and be able to deploy them to the platform of your choosing at will.
 
-And now I'll update it from VSCode.
+(Facebook and Twitter won't give you that.  Not Medium or LiveJournal.)
+
+Why post those words somewhere where others can stumble across them is another question.
